@@ -1,0 +1,1 @@
+Primeira questão, está quesão dentre as três apenas faz utilização do "Head" que seria com a extensão .h, que nela define as funções que serão executadas no arquivo main e aprimoradas no arquivo CommissionEmployee. Para rodar o código é necessário criar 3 arquivos, primeiro CommissionEmployee.h e depois CommissionEmployee.cpp, e para rodar o código seria o main.cpp.
